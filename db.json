@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4346025335678163,
+      "trendingScore": 0.43186991425206905,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.43786907753242366,
+      "trendingScore": 0.43510221377057295,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.3552038832206565,
+      "trendingScore": 1.346461574287108,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.5715719657272877,
+      "trendingScore": 1.5603878982460606,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.9219279116359627,
+      "trendingScore": 1.9062999915900931,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -158,6 +158,22 @@
       },
       "commentCount": 1,
       "trendingScore": 0.7025784962053269,
+      "isReported": false
+    },
+    "mpwy68p44fde9ra9": {
+      "id": "mpwy68p44fde9ra9",
+      "content": "alright goodnight, guys website is now fully in version 1 :>",
+      "images": [],
+      "gifs": [],
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780423484296,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
