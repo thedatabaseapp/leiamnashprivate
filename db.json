@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.7003308512319244,
+      "trendingScore": 0.6998628631487701,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -23,6 +23,22 @@
       "gifs": [],
       "anonymousId": "test456",
       "createdAt": 1780420728655,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
+      "isReported": false
+    },
+    "mpwwj8x9qoq9jxds": {
+      "id": "mpwwj8x9qoq9jxds",
+      "content": "no refresh method",
+      "images": [],
+      "gifs": [],
+      "anonymousId": "0B87IN33",
+      "createdAt": 1780420731885,
       "reactionCounts": {
         "love": 0,
         "funny": 0,
