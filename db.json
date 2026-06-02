@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.43907896951,
+      "trendingScore": 0.4360750932202269,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.44240192438429965,
+      "trendingScore": 0.43936015109095267,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.3695302502875253,
+      "trendingScore": 1.3599159493161301,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -76,8 +76,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 1,
-      "trendingScore": 0.5299755781508938,
+      "commentCount": 2,
+      "trendingScore": 1.051736872394694,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.9476334545832494,
+      "trendingScore": 1.9303695904870235,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -301,6 +301,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwy4v02ebum6rh1": {
+      "id": "mpwy4v02ebum6rh1",
+      "postId": "mpwx76gvpfcaqpcx",
+      "parentId": null,
+      "content": "mag notif kaaaa",
+      "anonymousId": "UVKXOM9L",
+      "createdAt": 1780423419890,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -363,6 +377,15 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
+      },
+      {
+        "id": "mpwy4v02pjj7o67r",
+        "type": "reply",
+        "postId": "mpwx76gvpfcaqpcx",
+        "commentId": "mpwy4v02ebum6rh1",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780423419890
       }
     ],
     "immediate": [
