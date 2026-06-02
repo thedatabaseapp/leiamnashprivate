@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.3975649370532425,
+      "trendingScore": 0.39635533530254663,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -24,12 +24,12 @@
       "anonymousId": "test456",
       "createdAt": 1780420728655,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0,
+      "trendingScore": 0.17063763446736446,
       "isReported": false
     },
     "mpwwj8x9qoq9jxds": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.39949973752565865,
+      "trendingScore": 0.3982803187587623,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.8734696459331728,
+      "trendingScore": 0.8707675879067956,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.9591291691706951,
+      "trendingScore": 0.9559717076092837,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -93,7 +93,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.20768452765385684,
+      "trendingScore": 0.20696375494006494,
       "isReported": false
     },
     "mpwxq7bhju6vugx7": {
@@ -109,7 +109,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.2113520291961981,
+      "trendingScore": 0.21060994351331955,
       "isReported": false
     },
     "mpwxt9sphpgeji0k": {
@@ -125,7 +125,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.21481276423618986,
+      "trendingScore": 0.21405034066105333,
       "isReported": false
     },
     "mpwxuuf9grc32uij": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.0831168697430196,
+      "trendingScore": 1.0792511132208307,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5193509767461537,
+      "trendingScore": 0.5174636411936946,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -172,8 +172,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 1,
-      "trendingScore": 0.5379231115170751,
+      "commentCount": 2,
+      "trendingScore": 0.8421632968457704,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.5278765325617549,
+      "trendingScore": 0.5244730030898318,
       "isReported": false
     }
   },
@@ -375,6 +375,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpx1difg88ezljh3": {
+      "id": "mpx1difg88ezljh3",
+      "postId": "mpwy68p44fde9ra9",
+      "parentId": "mpwy6nq1al4ylbdu",
+      "content": "Speak English dude",
+      "anonymousId": "GEOAS5NK",
+      "createdAt": 1780428862348,
+      "depth": 1,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {
@@ -388,7 +402,8 @@
     "mpwx76gvpfcaqpcx:GEOAS5NK": "love",
     "mpwwnm7n1350rlhq:GEOAS5NK": "love",
     "mpwwj8x9qoq9jxds:GEOAS5NK": "love",
-    "mpwwi6nk3j0d0rzz:GEOAS5NK": "love"
+    "mpwwi6nk3j0d0rzz:GEOAS5NK": "love",
+    "mpwwj6firblkyn5f:GEOAS5NK": "love"
   },
   "notifications": {
     "U9FGWYGP": [
@@ -507,6 +522,15 @@
         "message": "Someone reacted to your post",
         "read": false,
         "createdAt": 1780428828434
+      },
+      {
+        "id": "mpx1difg0d18gvu1",
+        "type": "reply",
+        "postId": "mpwy68p44fde9ra9",
+        "commentId": "mpx1difg88ezljh3",
+        "message": "Someone replied to your comment",
+        "read": false,
+        "createdAt": 1780428862348
       }
     ],
     "immediate": [
@@ -604,6 +628,16 @@
         "message": "Someone reacted to your post",
         "read": false,
         "createdAt": 1780428826979
+      }
+    ],
+    "test456": [
+      {
+        "id": "mpx1cveh6bb98gli",
+        "type": "reaction",
+        "postId": "mpwwj6firblkyn5f",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780428832505
       }
     ]
   },
