@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4518708581706095,
+      "trendingScore": 0.44972097472308403,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.45535714814145356,
+      "trendingScore": 0.45317959327164803,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.410504585394837,
+      "trendingScore": 1.4036145492969234,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5475357959823053,
+      "trendingScore": 0.5445765800988899,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -156,8 +156,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.7025784962053269,
       "isReported": false
     }
   },
@@ -259,6 +259,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwy0j3fjhun3xlf": {
+      "id": "mpwy0j3fjhun3xlf",
+      "postId": "mpwxzv90at1xpmyq",
+      "parentId": null,
+      "content": "working naa raahhhhh",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780423217835,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -332,6 +346,17 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780423136496
+      }
+    ],
+    "5BI6F7WH": [
+      {
+        "id": "mpwy0j3gft428avz",
+        "type": "reply",
+        "postId": "mpwxzv90at1xpmyq",
+        "commentId": "mpwy0j3fjhun3xlf",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780423217836
       }
     ]
   },
