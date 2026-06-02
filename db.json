@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.09408124524270138,
+      "trendingScore": 0.09349480387262377,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.0943351698675272,
+      "trendingScore": 0.0937460936300703,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.28617272282791933,
+      "trendingScore": 0.2843724783280323,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.3011066281732282,
+      "trendingScore": 0.2991474540133265,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.32098697256054576,
+      "trendingScore": 0.31880801423511773,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.1084963391033249,
+      "trendingScore": 0.10775300118321283,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -172,8 +172,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 1,
-      "trendingScore": 0.11045165281026284,
+      "commentCount": 2,
+      "trendingScore": 0.2193718122624897,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.2776407708382735,
+      "trendingScore": 0.27519418981188715,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.3296079397152785,
+      "trendingScore": 0.32662937517264623,
       "isReported": false
     }
   },
@@ -447,6 +447,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpx8qgmcskajsrpg": {
+      "id": "mpx8qgmcskajsrpg",
+      "postId": "mpwy68p44fde9ra9",
+      "parentId": "mpx1difg88ezljh3",
+      "content": "the site is under development but i completely rush and share it to everyone around on the internet, and forgot to add some edit post and comment feature and translate text, gonna make it happen later, i need to go on school first, fuck this life man",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780441223844,
+      "depth": 2,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {
@@ -662,6 +676,15 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780441072291
+      },
+      {
+        "id": "mpx8qgmcmdaajheo",
+        "type": "reply",
+        "postId": "mpwy68p44fde9ra9",
+        "commentId": "mpx8qgmcskajsrpg",
+        "message": "Someone replied to your comment",
+        "read": false,
+        "createdAt": 1780441223844
       }
     ]
   },
