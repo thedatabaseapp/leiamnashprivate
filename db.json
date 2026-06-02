@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4687471315665708,
+      "trendingScore": 0.45541629644734,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.472453708601891,
+      "trendingScore": 0.45894841389641294,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.4646411175691583,
+      "trendingScore": 1.4218703535542778,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.570876576523555,
+      "trendingScore": 0.5524229332608025,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -140,8 +140,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.6808531469602433,
       "isReported": false
     }
   },
@@ -229,6 +229,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwxysc0cvdrsdxf": {
+      "id": "mpwxysc0cvdrsdxf",
+      "postId": "mpwxuuf9grc32uij",
+      "parentId": null,
+      "content": "hopefully wala ng bugs rahhhhh",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780423136496,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -291,6 +305,17 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780422066750
+      }
+    ],
+    "immediate": [
+      {
+        "id": "mpwxysc0dad9xa2e",
+        "type": "reply",
+        "postId": "mpwxuuf9grc32uij",
+        "commentId": "mpwxysc0cvdrsdxf",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780423136496
       }
     ]
   },
