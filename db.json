@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4439922197101826,
+      "trendingScore": 0.43907896951,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.44737753685480086,
+      "trendingScore": 0.44240192438429965,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.3852619650481028,
+      "trendingScore": 1.3695302502875253,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5367068699379892,
+      "trendingScore": 0.5299755781508938,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -140,8 +140,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 2,
-      "trendingScore": 1.3173316848396692,
+      "commentCount": 3,
+      "trendingScore": 1.9476334545832494,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -287,6 +287,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwy3vzmmm8sawn2": {
+      "id": "mpwy3vzmmm8sawn2",
+      "postId": "mpwxuuf9grc32uij",
+      "parentId": null,
+      "content": "check notif",
+      "anonymousId": "UVKXOM9L",
+      "createdAt": 1780423374514,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -347,7 +361,7 @@
         "postId": "mpwx76gvpfcaqpcx",
         "commentId": "mpwxbuwuj1h76t3w",
         "message": "Someone replied to your post",
-        "read": false,
+        "read": true,
         "createdAt": 1780422066750
       }
     ],
@@ -369,6 +383,15 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780423301399
+      },
+      {
+        "id": "mpwy3vzm047ryh78",
+        "type": "reply",
+        "postId": "mpwxuuf9grc32uij",
+        "commentId": "mpwy3vzmmm8sawn2",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780423374514
       }
     ],
     "5BI6F7WH": [
