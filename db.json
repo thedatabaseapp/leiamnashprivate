@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.1427137369155523,
+      "trendingScore": 0.09426621684601097,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.14322262482830642,
+      "trendingScore": 0.0945209748283599,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.4360388710585812,
+      "trendingScore": 0.286740580427694,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.4665969186732367,
+      "trendingScore": 0.30172476460774844,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.508627899676279,
+      "trendingScore": 0.32167466646394755,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.17278827193834695,
+      "trendingScore": 0.10873095784712575,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.17705821176169653,
+      "trendingScore": 0.11069336615924465,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -188,8 +188,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0.22375715459015394,
+      "commentCount": 1,
+      "trendingScore": 0.278414656085098,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.3162699895671378,
+      "trendingScore": 0.16527516617162147,
       "isReported": false
     }
   },
@@ -419,6 +419,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpx8n7ojyijxpxze": {
+      "id": "mpx8n7ojyijxpxze",
+      "postId": "mpx1cd58yzsbg6q4",
+      "parentId": null,
+      "content": "nah bro even that i didn't log it to my console and write it on base, it's only a browser session has been cache to avoid same data each post",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780441072291,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {
@@ -614,6 +628,17 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780434407916
+      }
+    ],
+    "GEOAS5NK": [
+      {
+        "id": "mpx8n7ojffyej5cv",
+        "type": "reply",
+        "postId": "mpx1cd58yzsbg6q4",
+        "commentId": "mpx8n7ojyijxpxze",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780441072291
       }
     ]
   },
