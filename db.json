@@ -60,7 +60,7 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
+      "commentCount": 1,
       "trendingScore": 0,
       "isReported": false
     }
@@ -93,6 +93,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwwnzqwht7sa7tx": {
+      "id": "mpwwnzqwht7sa7tx",
+      "postId": "mpwwnm7n1350rlhq",
+      "parentId": null,
+      "content": "cooldown check",
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780420953272,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -106,6 +120,15 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780420696360
+      },
+      {
+        "id": "mpwwnzqwdvflno8r",
+        "type": "reply",
+        "postId": "mpwwnm7n1350rlhq",
+        "commentId": "mpwwnzqwht7sa7tx",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780420953272
       }
     ],
     "0B87IN33": [
