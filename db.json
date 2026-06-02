@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.09349480387262377,
+      "trendingScore": 0.09339931456229192,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.0937460936300703,
+      "trendingScore": 0.09365017633206606,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.2843724783280323,
+      "trendingScore": 0.284079363813088,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.2991474540133265,
+      "trendingScore": 0.2988285298495192,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.31880801423511773,
+      "trendingScore": 0.31845341001720207,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.10775300118321283,
+      "trendingScore": 0.10763203762037461,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.2193718122624897,
+      "trendingScore": 0.21912261182076412,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -184,12 +184,12 @@
       "anonymousId": "GEOAS5NK",
       "createdAt": 1780428808844,
       "reactionCounts": {
-        "love": 1,
+        "love": 2,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.27519418981188715,
+      "trendingScore": 0.3925668843697439,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.32662937517264623,
+      "trendingScore": 0.3261457065773972,
       "isReported": false
     }
   },
@@ -475,7 +475,8 @@
     "mpwwnm7n1350rlhq:GEOAS5NK": "love",
     "mpwwj8x9qoq9jxds:GEOAS5NK": "love",
     "mpwwi6nk3j0d0rzz:GEOAS5NK": "love",
-    "mpwwj6firblkyn5f:GEOAS5NK": "love"
+    "mpwwj6firblkyn5f:GEOAS5NK": "love",
+    "mpx1cd58yzsbg6q4:R1CPK22Y": "love"
   },
   "notifications": {
     "U9FGWYGP": [
@@ -685,6 +686,14 @@
         "message": "Someone replied to your comment",
         "read": false,
         "createdAt": 1780441223844
+      },
+      {
+        "id": "mpx8qv7jkfnu3bqm",
+        "type": "reaction",
+        "postId": "mpx1cd58yzsbg6q4",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780441242751
       }
     ]
   },
