@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.43186991425206905,
+      "trendingScore": 0.4306116950126158,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.43510221377057295,
+      "trendingScore": 0.4338282757390492,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.346461574287108,
+      "trendingScore": 1.3424370326904298,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.5603878982460606,
+      "trendingScore": 1.5552434870986207,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.9062999915900931,
+      "trendingScore": 1.8991204557991437,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -172,8 +172,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.7042476586408706,
       "isReported": false
     }
   },
@@ -345,6 +345,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwy6nq1al4ylbdu": {
+      "id": "mpwy6nq1al4ylbdu",
+      "postId": "mpwy68p44fde9ra9",
+      "parentId": null,
+      "content": "wala papala akong edit feature yawa",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780423503769,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -416,6 +430,15 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
+      },
+      {
+        "id": "mpwy6nq1k422ch0o",
+        "type": "reply",
+        "postId": "mpwy68p44fde9ra9",
+        "commentId": "mpwy6nq1al4ylbdu",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780423503769
       }
     ],
     "immediate": [
