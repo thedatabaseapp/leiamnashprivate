@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.6956724537299085,
+      "trendingScore": 0.6713488627605754,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,23 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.7028439813314215,
+      "trendingScore": 0.6781060100657791,
+      "isReported": false
+    },
+    "mpwwnm7n1350rlhq": {
+      "id": "mpwwnm7n1350rlhq",
+      "content": "anti spam cooldown check",
+      "images": [],
+      "gifs": [],
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780420935731,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
