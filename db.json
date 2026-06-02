@@ -1,28 +1,12 @@
 {
   "posts": {
-    "mpwwi6nk3j0d0rzz": {
-      "id": "mpwwi6nk3j0d0rzz",
-      "content": "check production umai sa bugs haha",
+    "mpwwuuiz5kv2ggd3": {
+      "id": "mpwwuuiz5kv2ggd3",
+      "content": "test post function",
       "images": [],
       "gifs": [],
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420682288,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 1,
-      "trendingScore": 0.6662864892224314,
-      "isReported": false
-    },
-    "mpwwj6firblkyn5f": {
-      "id": "mpwwj6firblkyn5f",
-      "content": "database test",
-      "images": [],
-      "gifs": [],
-      "anonymousId": "test456",
-      "createdAt": 1780420728655,
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780421273099,
       "reactionCounts": {
         "love": 0,
         "funny": 0,
@@ -31,163 +15,10 @@
       "commentCount": 0,
       "trendingScore": 0,
       "isReported": false
-    },
-    "mpwwj8x9qoq9jxds": {
-      "id": "mpwwj8x9qoq9jxds",
-      "content": "no refresh method",
-      "images": [],
-      "gifs": [],
-      "anonymousId": "0B87IN33",
-      "createdAt": 1780420731885,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 1,
-      "trendingScore": 0.6729586472092943,
-      "isReported": false
-    },
-    "mpwwnm7n1350rlhq": {
-      "id": "mpwwnm7n1350rlhq",
-      "content": "anti spam cooldown check",
-      "images": [],
-      "gifs": [],
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420935731,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 3,
-      "trendingScore": 2.1047644741965055,
-      "isReported": false
     }
   },
-  "comments": {
-    "mpwwihigw4xeg20g": {
-      "id": "mpwwihigw4xeg20g",
-      "postId": "mpwwi6nk3j0d0rzz",
-      "parentId": null,
-      "content": "checking post if update",
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420696360,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    },
-    "mpwwjvd209bfx2um": {
-      "id": "mpwwjvd209bfx2um",
-      "postId": "mpwwj8x9qoq9jxds",
-      "parentId": null,
-      "content": "ayun working bwakanang inang shit",
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420760966,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    },
-    "mpwwnzqwht7sa7tx": {
-      "id": "mpwwnzqwht7sa7tx",
-      "postId": "mpwwnm7n1350rlhq",
-      "parentId": null,
-      "content": "cooldown check",
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420953272,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    },
-    "mpwwo60h6eof3t7v": {
-      "id": "mpwwo60h6eof3t7v",
-      "postId": "mpwwnm7n1350rlhq",
-      "parentId": null,
-      "content": "check  spam",
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420961393,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    },
-    "mpwwofb1gcbh4z0u": {
-      "id": "mpwwofb1gcbh4z0u",
-      "postId": "mpwwnm7n1350rlhq",
-      "parentId": null,
-      "content": "alright it works hahahahaha",
-      "anonymousId": "U9FGWYGP",
-      "createdAt": 1780420973437,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    }
-  },
+  "comments": {},
   "reactions": {},
-  "notifications": {
-    "U9FGWYGP": [
-      {
-        "id": "mpwwihig3fwqzrxu",
-        "type": "reply",
-        "postId": "mpwwi6nk3j0d0rzz",
-        "commentId": "mpwwihigw4xeg20g",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420696360
-      },
-      {
-        "id": "mpwwnzqwdvflno8r",
-        "type": "reply",
-        "postId": "mpwwnm7n1350rlhq",
-        "commentId": "mpwwnzqwht7sa7tx",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420953272
-      },
-      {
-        "id": "mpwwo60h4v2abgip",
-        "type": "reply",
-        "postId": "mpwwnm7n1350rlhq",
-        "commentId": "mpwwo60h6eof3t7v",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420961394
-      },
-      {
-        "id": "mpwwofb1zkk78hqx",
-        "type": "reply",
-        "postId": "mpwwnm7n1350rlhq",
-        "commentId": "mpwwofb1gcbh4z0u",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420973437
-      }
-    ],
-    "0B87IN33": [
-      {
-        "id": "mpwwjvd2ytdydd6v",
-        "type": "reply",
-        "postId": "mpwwj8x9qoq9jxds",
-        "commentId": "mpwwjvd209bfx2um",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420760966
-      }
-    ]
-  },
+  "notifications": {},
   "reports": []
 }
