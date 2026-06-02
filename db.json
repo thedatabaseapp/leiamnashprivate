@@ -12,13 +12,40 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
+      "commentCount": 1,
       "trendingScore": 0,
       "isReported": false
     }
   },
-  "comments": {},
+  "comments": {
+    "mpwwihigw4xeg20g": {
+      "id": "mpwwihigw4xeg20g",
+      "postId": "mpwwi6nk3j0d0rzz",
+      "parentId": null,
+      "content": "checking post if update",
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780420696360,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
+    }
+  },
   "reactions": {},
-  "notifications": {},
+  "notifications": {
+    "U9FGWYGP": [
+      {
+        "id": "mpwwihig3fwqzrxu",
+        "type": "reply",
+        "postId": "mpwwi6nk3j0d0rzz",
+        "commentId": "mpwwihigw4xeg20g",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780420696360
+      }
+    ]
+  },
   "reports": []
 }
