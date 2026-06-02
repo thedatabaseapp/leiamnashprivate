@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.48529840413138386,
+      "trendingScore": 0.4742490748859287,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4892262733441809,
+      "trendingScore": 0.47802863981379895,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.5178219386908953,
+      "trendingScore": 1.482309885987168,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5939597148421945,
+      "trendingScore": 0.5785287517315884,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -103,6 +103,22 @@
       "gifs": [],
       "anonymousId": "verify",
       "createdAt": 1780422736013,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
+      "isReported": false
+    },
+    "mpwxt9sphpgeji0k": {
+      "id": "mpwxt9sphpgeji0k",
+      "content": "raw github test",
+      "images": [],
+      "gifs": [],
+      "anonymousId": "rawtest",
+      "createdAt": 1780422879193,
       "reactionCounts": {
         "love": 0,
         "funny": 0,
