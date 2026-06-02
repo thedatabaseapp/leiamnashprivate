@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.2273731664954708,
+      "trendingScore": 0.22732075082577513,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.22848033682767344,
+      "trendingScore": 0.2284274951129311,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.6993799666972056,
+      "trendingScore": 0.6992160327619313,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.7680095752065066,
+      "trendingScore": 0.7678179647763107,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -104,12 +104,12 @@
       "anonymousId": "verify",
       "createdAt": 1780422736013,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0,
+      "trendingScore": 0.21150325168604764,
       "isReported": false
     },
     "mpwxt9sphpgeji0k": {
@@ -120,12 +120,12 @@
       "anonymousId": "rawtest",
       "createdAt": 1780422879193,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0,
+      "trendingScore": 0.2149681371485172,
       "isReported": false
     },
     "mpwxuuf9grc32uij": {
@@ -136,12 +136,12 @@
       "anonymousId": "immediate",
       "createdAt": 1780422952581,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.8673584186765564,
+      "trendingScore": 1.0839046809710315,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5198788530789098,
+      "trendingScore": 0.5197356262434348,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5384828343111931,
+      "trendingScore": 0.538330964465887,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.5288313538846359,
+      "trendingScore": 0.5285721610704183,
       "isReported": false
     }
   },
@@ -380,7 +380,10 @@
   "reactions": {
     "mpx1cd58yzsbg6q4:GEOAS5NK": "love",
     "mpwy68p44fde9ra9:GEOAS5NK": "love",
-    "mpwxzv90at1xpmyq:GEOAS5NK": "love"
+    "mpwxzv90at1xpmyq:GEOAS5NK": "love",
+    "mpwxuuf9grc32uij:GEOAS5NK": "love",
+    "mpwxt9sphpgeji0k:GEOAS5NK": "love",
+    "mpwxq7bhju6vugx7:GEOAS5NK": "love"
   },
   "notifications": {
     "U9FGWYGP": [
@@ -496,6 +499,14 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780423374514
+      },
+      {
+        "id": "mpx1co3s1k3vsf77",
+        "type": "reaction",
+        "postId": "mpwxuuf9grc32uij",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780428823048
       }
     ],
     "5BI6F7WH": [
@@ -526,6 +537,26 @@
         "message": "Someone replied to your comment",
         "read": true,
         "createdAt": 1780423442325
+      }
+    ],
+    "rawtest": [
+      {
+        "id": "mpx1cp0ace52y539",
+        "type": "reaction",
+        "postId": "mpwxt9sphpgeji0k",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780428824218
+      }
+    ],
+    "verify": [
+      {
+        "id": "mpx1cpge9ccdnnbc",
+        "type": "reaction",
+        "postId": "mpwxq7bhju6vugx7",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780428824798
       }
     ]
   },
