@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.6998628631487701,
+      "trendingScore": 0.6956724537299085,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -44,8 +44,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.7028439813314215,
       "isReported": false
     }
   },
@@ -57,6 +57,20 @@
       "content": "checking post if update",
       "anonymousId": "U9FGWYGP",
       "createdAt": 1780420696360,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
+    },
+    "mpwwjvd209bfx2um": {
+      "id": "mpwwjvd209bfx2um",
+      "postId": "mpwwj8x9qoq9jxds",
+      "parentId": null,
+      "content": "ayun working bwakanang inang shit",
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780420760966,
       "depth": 0,
       "reactions": {
         "love": 0,
@@ -76,6 +90,17 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780420696360
+      }
+    ],
+    "0B87IN33": [
+      {
+        "id": "mpwwjvd2ytdydd6v",
+        "type": "reply",
+        "postId": "mpwwj8x9qoq9jxds",
+        "commentId": "mpwwjvd209bfx2um",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780420760966
       }
     ]
   },
