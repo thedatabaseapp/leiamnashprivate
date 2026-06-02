@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5645398136914848,
+      "trendingScore": 0.543142255986525,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5695974056018465,
+      "trendingScore": 0.5478835087848556,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.7735996403509142,
+      "trendingScore": 1.7043440420320939,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -76,8 +76,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.6761238877024953,
       "isReported": false
     }
   },
@@ -151,6 +151,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpwxbuwuj1h76t3w": {
+      "id": "mpwxbuwuj1h76t3w",
+      "postId": "mpwx76gvpfcaqpcx",
+      "parentId": null,
+      "content": "tf san yung problema",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780422066750,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {},
@@ -202,6 +216,17 @@
         "message": "Someone replied to your post",
         "read": false,
         "createdAt": 1780420760966
+      }
+    ],
+    "R1CPK22Y": [
+      {
+        "id": "mpwxbuwuw17ffqpm",
+        "type": "reply",
+        "postId": "mpwx76gvpfcaqpcx",
+        "commentId": "mpwxbuwuj1h76t3w",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780422066750
       }
     ]
   },
