@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.543142255986525,
+      "trendingScore": 0.49783907224787644,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.5478835087848556,
+      "trendingScore": 0.5019380360500173,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 1.7043440420320939,
+      "trendingScore": 1.5581730761649042,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,23 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.6761238877024953,
+      "trendingScore": 0.6115759877732092,
+      "isReported": false
+    },
+    "mpwxmuwfr0w6m1p2": {
+      "id": "mpwxmuwfr0w6m1p2",
+      "content": "post after fix",
+      "images": [],
+      "gifs": [],
+      "anonymousId": "testfixer",
+      "createdAt": 1780422579951,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
