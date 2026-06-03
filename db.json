@@ -725,6 +725,14 @@
     ],
     "R1CPK22Y": [
       {
+        "id": "mpxzo1sosc91xgd9",
+        "type": "reaction",
+        "postId": "mpwy68p44fde9ra9",
+        "message": "Someone reacted to your post",
+        "read": true,
+        "createdAt": 1780486460952
+      },
+      {
         "id": "mpxa00u8a3377ukn",
         "type": "reply",
         "postId": "mpx8ztbyr4x82dup",
@@ -759,14 +767,6 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
-      },
-      {
-        "id": "mpxzo1sosc91xgd9",
-        "type": "reaction",
-        "postId": "mpwy68p44fde9ra9",
-        "message": "Someone reacted to your post",
-        "read": false,
-        "createdAt": 1780486460952
       }
     ],
     "immediate": [
