@@ -916,7 +916,7 @@
         "postId": "mpy16oozic7l0u4j",
         "commentId": "mpy38wot22vpzzms",
         "message": "Someone replied to your comment",
-        "read": false,
+        "read": true,
         "createdAt": 1780492472957
       },
       {
