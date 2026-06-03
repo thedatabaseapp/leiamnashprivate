@@ -972,7 +972,7 @@
         "type": "reaction",
         "postId": "mpy1g5s5llxp2fwy",
         "message": "Someone reacted to your post",
-        "read": false,
+        "read": true,
         "createdAt": 1780497507742
       },
       {
