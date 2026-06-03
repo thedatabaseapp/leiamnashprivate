@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.017376758216029513,
+      "trendingScore": 0.016973282173195957,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.01739194578580183,
+      "trendingScore": 0.016987886397432927,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.05236380109637037,
+      "trendingScore": 0.05114439287714286,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.05321941389557887,
+      "trendingScore": 0.05196688178954317,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.05428603999991918,
+      "trendingScore": 0.0529917291016243,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.018172339543154316,
+      "trendingScore": 0.01773786327958484,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.05024476426583683,
+      "trendingScore": 0.04903923000011872,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.05958106275317331,
+      "trendingScore": 0.058054852220908094,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09277680259009424,
+      "trendingScore": 0.09038542866305341,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.026555159698663212,
+      "trendingScore": 0.025742255514812552,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.033015940817305744,
+      "trendingScore": 0.031852002381775754,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.06189220115862479,
+      "trendingScore": 0.059611031114590075,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07230085826304296,
+      "trendingScore": 0.0680879588934472,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -340,7 +340,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.17272312041212412,
+      "trendingScore": 0.15540532665525686,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -356,7 +356,7 @@
         "dislike": 1
       },
       "commentCount": 2,
-      "trendingScore": 0.3948973928204536,
+      "trendingScore": 0.3519487255892609,
       "isReported": false
     },
     "mpy1g5s5llxp2fwy": {
@@ -374,7 +374,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.5650694716635902,
+      "trendingScore": 0.5021133224799817,
       "isReported": false
     },
     "mpy1pei9qcqv0biu": {
@@ -392,7 +392,7 @@
         "dislike": 1
       },
       "commentCount": 2,
-      "trendingScore": 0.6843288556042618,
+      "trendingScore": 0.6062264976202878,
       "isReported": false
     },
     "mpy69k1p5qp7kup3": {
@@ -408,7 +408,26 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.9105731633007222,
+      "trendingScore": 0.727339966475861,
+      "isReported": false
+    },
+    "mpy7qes3137wz77d": {
+      "id": "mpy7qes3137wz77d",
+      "content": "ayaw nyo ba sa mga singkit?",
+      "images": [],
+      "videos": [
+        "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1780499946971-l71cmb.mp4"
+      ],
+      "gifs": [],
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780500008019,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
