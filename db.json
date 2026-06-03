@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.02063108938829566,
+      "trendingScore": 0.020538025718955383,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.02065130944214625,
+      "trendingScore": 0.020558093936254098,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.062204288124832384,
+      "trendingScore": 0.06192275847447929,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.0633462313290069,
+      "trendingScore": 0.06305604858994937,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06477508812833463,
+      "trendingScore": 0.0644739317196299,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.02169509338359976,
+      "trendingScore": 0.021593906684665355,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.06002558492170652,
+      "trendingScore": 0.059744490066720765,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07211834120279506,
+      "trendingScore": 0.07175422291068341,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09761733833330917,
+      "trendingScore": 0.09712091988824352,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.03349931356612531,
+      "trendingScore": 0.033290857889833915,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.04333980368915591,
+      "trendingScore": 0.04301990670684166,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.047083570788059026,
+      "trendingScore": 0.04671643299460225,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.1182805074323988,
+      "trendingScore": 0.11658546976220703,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -339,8 +339,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.4707328898558153,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -700,6 +700,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpy1l2q4z92b6re8": {
+      "id": "mpy1l2q4z92b6re8",
+      "postId": "mpy08zittgl7igpk",
+      "parentId": null,
+      "content": "alright working na",
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780489681420,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {
@@ -818,6 +832,15 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
+      },
+      {
+        "id": "mpy1l2q417zfrzi4",
+        "type": "reply",
+        "postId": "mpy08zittgl7igpk",
+        "commentId": "mpy1l2q4z92b6re8",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780489681420
       }
     ],
     "immediate": [
