@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020669033848251125,
+      "trendingScore": 0.02063108938829566,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020689315941208042,
+      "trendingScore": 0.02065130944214625,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.0623190770633427,
+      "trendingScore": 0.062204288124832384,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06346455608491536,
+      "trendingScore": 0.0633462313290069,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06489789739174934,
+      "trendingScore": 0.06477508812833463,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.021736357258066785,
+      "trendingScore": 0.02169509338359976,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.060140217783033016,
+      "trendingScore": 0.06002558492170652,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07226689577870674,
+      "trendingScore": 0.07211834120279506,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09781987800711799,
+      "trendingScore": 0.09761733833330917,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.03358447805651157,
+      "trendingScore": 0.03349931356612531,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.04347067645104227,
+      "trendingScore": 0.04333980368915591,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.04723384417228011,
+      "trendingScore": 0.047083570788059026,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.11897970805880645,
+      "trendingScore": 0.1182805074323988,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -352,11 +352,29 @@
       "createdAt": 1780489010051,
       "reactionCounts": {
         "love": 0,
-        "funny": 1,
+        "funny": 0,
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.39518191566850674,
+      "trendingScore": 0,
+      "isReported": false
+    },
+    "mpy1g5s5llxp2fwy": {
+      "id": "mpy1g5s5llxp2fwy",
+      "content": "caught at iloilo haha ano to bat my naligaw dito",
+      "images": [
+        "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1780489424078-ivpzqo.jpg"
+      ],
+      "gifs": [],
+      "anonymousId": "R1CPK22Y",
+      "createdAt": 1780489452101,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
