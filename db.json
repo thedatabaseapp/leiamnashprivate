@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020456671403060952,
+      "trendingScore": 0.020297115200645775,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020476607263595244,
+      "trendingScore": 0.02031679249564423,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06167665694645531,
+      "trendingScore": 0.061194005944270324,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06280240479897482,
+      "trendingScore": 0.06230502145382764,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06421072428328167,
+      "trendingScore": 0.0636946637229844,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.021505472658036533,
+      "trendingScore": 0.021332089072758544,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.05949882919199937,
+      "trendingScore": 0.059017206696867164,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07143618710468447,
+      "trendingScore": 0.07081316756123696,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09668735253716415,
+      "trendingScore": 0.09583807847456242,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.03310911955798923,
+      "trendingScore": 0.03275400656815257,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.04274151755201702,
+      "trendingScore": 0.04219891356063867,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.0463971417973405,
+      "trendingScore": 0.045775376526537195,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.11512641977918084,
+      "trendingScore": 0.11232483504753725,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -340,7 +340,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.45603110655212414,
+      "trendingScore": 0.4290744952045642,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -373,8 +373,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 1,
-      "trendingScore": 0.6480275486037016,
+      "commentCount": 2,
+      "trendingScore": 1.2004734818197407,
       "isReported": false
     },
     "mpy1pei9qcqv0biu": {
@@ -746,6 +746,20 @@
         "funny": 0,
         "dislike": 0
       }
+    },
+    "mpy1xz1q8c8q98lm": {
+      "id": "mpy1xz1q8c8q98lm",
+      "postId": "mpy1g5s5llxp2fwy",
+      "parentId": null,
+      "content": "test comment fix",
+      "anonymousId": "testcommenter",
+      "createdAt": 1780490283182,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
     }
   },
   "reactions": {
@@ -882,6 +896,15 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
+      },
+      {
+        "id": "mpy1xz1qxot1338z",
+        "type": "reply",
+        "postId": "mpy1g5s5llxp2fwy",
+        "commentId": "mpy1xz1q8c8q98lm",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780490283182
       }
     ],
     "immediate": [
