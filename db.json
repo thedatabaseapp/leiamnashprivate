@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020503090331342823,
+      "trendingScore": 0.020456671403060952,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020523101668693793,
+      "trendingScore": 0.020476607263595244,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.0618170762343609,
+      "trendingScore": 0.06167665694645531,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06294712500546358,
+      "trendingScore": 0.06280240479897482,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06436089793802251,
+      "trendingScore": 0.06421072428328167,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.021555928676401107,
+      "trendingScore": 0.021505472658036533,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.05963899012813749,
+      "trendingScore": 0.05949882919199937,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.0716176204022346,
+      "trendingScore": 0.07143618710468447,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09693469151708979,
+      "trendingScore": 0.09668735253716415,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.033212759478460904,
+      "trendingScore": 0.03310911955798923,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.04290021665426176,
+      "trendingScore": 0.04274151755201702,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.04657913374061749,
+      "trendingScore": 0.0463971417973405,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.11595635006082088,
+      "trendingScore": 0.11512641977918084,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -340,7 +340,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.46433615610597495,
+      "trendingScore": 0.45603110655212414,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -374,7 +374,25 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.6630041459805472,
+      "trendingScore": 0.6480275486037016,
+      "isReported": false
+    },
+    "mpy1pei9qcqv0biu": {
+      "id": "mpy1pei9qcqv0biu",
+      "content": "Mannn nakaka diabetes... Hirap maging single ohh haysstt napapangiti tuloy ako mag isa",
+      "images": [
+        "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1780489855696-mkd7if.jpg"
+      ],
+      "gifs": [],
+      "anonymousId": "K73QI78X",
+      "createdAt": 1780489883313,
+      "reactionCounts": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      },
+      "commentCount": 0,
+      "trendingScore": 0,
       "isReported": false
     }
   },
@@ -804,6 +822,15 @@
     ],
     "R1CPK22Y": [
       {
+        "id": "mpy1mxhuw4sbw33y",
+        "type": "reply",
+        "postId": "mpy1g5s5llxp2fwy",
+        "commentId": "mpy1mxhu0uypuoe9",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780489767954
+      },
+      {
         "id": "mpy1l2q417zfrzi4",
         "type": "reply",
         "postId": "mpy08zittgl7igpk",
@@ -855,15 +882,6 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
-      },
-      {
-        "id": "mpy1mxhuw4sbw33y",
-        "type": "reply",
-        "postId": "mpy1g5s5llxp2fwy",
-        "commentId": "mpy1mxhu0uypuoe9",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780489767954
       }
     ],
     "immediate": [
