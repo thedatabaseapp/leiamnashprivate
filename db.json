@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.020297115200645775,
+      "trendingScore": 0.020269698139671406,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.02031679249564423,
+      "trendingScore": 0.020289331140640136,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.061194005944270324,
+      "trendingScore": 0.06111107255986608,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.06230502145382764,
+      "trendingScore": 0.06221956456488818,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.0636946637229844,
+      "trendingScore": 0.06360600807902883,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.021332089072758544,
+      "trendingScore": 0.02130230371175417,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.059017206696867164,
+      "trendingScore": 0.05893447197500356,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07081316756123696,
+      "trendingScore": 0.07070620924933205,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.09583807847456242,
+      "trendingScore": 0.09569228636111975,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.03275400656815257,
+      "trendingScore": 0.032693162153641285,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.04219891356063867,
+      "trendingScore": 0.042106125580079486,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.045775376526537195,
+      "trendingScore": 0.045669125829224264,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.11232483504753725,
+      "trendingScore": 0.1118512656418378,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -340,7 +340,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.4290744952045642,
+      "trendingScore": 0.4246762492728897,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -374,7 +374,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 1.2004734818197407,
+      "trendingScore": 1.1851145165431827,
       "isReported": false
     },
     "mpy1pei9qcqv0biu": {
@@ -391,8 +391,8 @@
         "funny": 0,
         "dislike": 0
       },
-      "commentCount": 0,
-      "trendingScore": 0,
+      "commentCount": 1,
+      "trendingScore": 0.6432300070473949,
       "isReported": false
     }
   },
@@ -754,6 +754,20 @@
       "content": "test comment fix",
       "anonymousId": "testcommenter",
       "createdAt": 1780490283182,
+      "depth": 0,
+      "reactions": {
+        "love": 0,
+        "funny": 0,
+        "dislike": 0
+      }
+    },
+    "mpy1zgh15j35b2v2": {
+      "id": "mpy1zgh15j35b2v2",
+      "postId": "mpy1pei9qcqv0biu",
+      "parentId": null,
+      "content": "i feel you bro pero masakit pag in relationship ka, bulsa mo rin kawawa hahaa",
+      "anonymousId": "U9FGWYGP",
+      "createdAt": 1780490352421,
       "depth": 0,
       "reactions": {
         "love": 0,
@@ -1151,6 +1165,17 @@
         "message": "Someone reacted to your post",
         "read": false,
         "createdAt": 1780489359093
+      }
+    ],
+    "K73QI78X": [
+      {
+        "id": "mpy1zgh1242x3lb9",
+        "type": "reply",
+        "postId": "mpy1pei9qcqv0biu",
+        "commentId": "mpy1zgh15j35b2v2",
+        "message": "Someone replied to your post",
+        "read": false,
+        "createdAt": 1780490352421
       }
     ]
   },
