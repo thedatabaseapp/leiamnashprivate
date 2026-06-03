@@ -659,22 +659,13 @@
   "notifications": {
     "U9FGWYGP": [
       {
-        "id": "mpwwihig3fwqzrxu",
-        "type": "reply",
-        "postId": "mpwwi6nk3j0d0rzz",
-        "commentId": "mpwwihigw4xeg20g",
-        "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420696360
-      },
-      {
-        "id": "mpwwnzqwdvflno8r",
+        "id": "mpwwofb1zkk78hqx",
         "type": "reply",
         "postId": "mpwwnm7n1350rlhq",
-        "commentId": "mpwwnzqwht7sa7tx",
+        "commentId": "mpwwofb1gcbh4z0u",
         "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420953272
+        "read": true,
+        "createdAt": 1780420973437
       },
       {
         "id": "mpwwo60h4v2abgip",
@@ -682,17 +673,26 @@
         "postId": "mpwwnm7n1350rlhq",
         "commentId": "mpwwo60h6eof3t7v",
         "message": "Someone replied to your post",
-        "read": false,
+        "read": true,
         "createdAt": 1780420961394
       },
       {
-        "id": "mpwwofb1zkk78hqx",
+        "id": "mpwwnzqwdvflno8r",
         "type": "reply",
         "postId": "mpwwnm7n1350rlhq",
-        "commentId": "mpwwofb1gcbh4z0u",
+        "commentId": "mpwwnzqwht7sa7tx",
         "message": "Someone replied to your post",
-        "read": false,
-        "createdAt": 1780420973437
+        "read": true,
+        "createdAt": 1780420953272
+      },
+      {
+        "id": "mpwwihig3fwqzrxu",
+        "type": "reply",
+        "postId": "mpwwi6nk3j0d0rzz",
+        "commentId": "mpwwihigw4xeg20g",
+        "message": "Someone replied to your post",
+        "read": true,
+        "createdAt": 1780420696360
       }
     ],
     "0B87IN33": [
