@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.05535891519657047,
+      "trendingScore": 0.04663211213451499,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.05546376194111498,
+      "trendingScore": 0.046710872929193036,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.1676945486245959,
+      "trendingScore": 0.14111077175324244,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.17374415577201258,
+      "trendingScore": 0.14563333228397793,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.18156364599046168,
+      "trendingScore": 0.1514360775233426,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.06109965555185717,
+      "trendingScore": 0.05090579527886617,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.12369400808204875,
+      "trendingScore": 0.1029129464515383,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -185,11 +185,11 @@
       "createdAt": 1780428808844,
       "reactionCounts": {
         "love": 1,
-        "funny": 1,
+        "funny": 2,
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.1840699139880196,
+      "trendingScore": 0.18670681143418205,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.31679900644792697,
+      "trendingScore": 0.2551742913769306,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.17358244053254246,
+      "trendingScore": 0.12279348372163026,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -576,7 +576,8 @@
     "mpx1cd58yzsbg6q4:R1CPK22Y": "funny",
     "mpx1mtyfhbnihsbf:R1CPK22Y": "funny",
     "mpx1mtyfhbnihsbf:CHBNWTW6": "funny",
-    "mpx1mtyfhbnihsbf:9JXSLWPU": "funny"
+    "mpx1mtyfhbnihsbf:9JXSLWPU": "funny",
+    "mpx1cd58yzsbg6q4:6QSY2QDS": "funny"
   },
   "notifications": {
     "U9FGWYGP": [
@@ -851,6 +852,14 @@
         "message": "Someone reacted to your post",
         "read": false,
         "createdAt": 1780441243891
+      },
+      {
+        "id": "mpxiha898v0ogf6i",
+        "type": "reaction",
+        "postId": "mpx1cd58yzsbg6q4",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1780457591817
       }
     ]
   },
