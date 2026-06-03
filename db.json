@@ -13,7 +13,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.01384358745073072,
+      "trendingScore": 0.013828725868971966,
       "isReported": false
     },
     "mpwwj6firblkyn5f": {
@@ -45,7 +45,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.013853984504655194,
+      "trendingScore": 0.013839104322228445,
       "isReported": false
     },
     "mpwwnm7n1350rlhq": {
@@ -61,7 +61,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.04169056160619946,
+      "trendingScore": 0.04164569068034854,
       "isReported": false
     },
     "mpwx76gvpfcaqpcx": {
@@ -77,7 +77,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.04227462065230646,
+      "trendingScore": 0.04222869753539922,
       "isReported": false
     },
     "mpwxmuwfr0w6m1p2": {
@@ -141,7 +141,7 @@
         "dislike": 0
       },
       "commentCount": 3,
-      "trendingScore": 0.04299961200794323,
+      "trendingScore": 0.04295236928689206,
       "isReported": false
     },
     "mpwxzv90at1xpmyq": {
@@ -157,7 +157,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.014385386282189142,
+      "trendingScore": 0.014369543075259537,
       "isReported": false
     },
     "mpwy68p44fde9ra9": {
@@ -173,7 +173,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.039743155999969214,
+      "trendingScore": 0.03969925024594739,
       "isReported": false
     },
     "mpx1cd58yzsbg6q4": {
@@ -189,7 +189,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.055873309751814544,
+      "trendingScore": 0.05580797598766845,
       "isReported": false
     },
     "mpx1mtyfhbnihsbf": {
@@ -205,7 +205,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.07219266704016818,
+      "trendingScore": 0.07210779567634032,
       "isReported": false
     },
     "mpx8ztbyr4x82dup": {
@@ -221,7 +221,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.01977721301648078,
+      "trendingScore": 0.019750288073008566,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -258,7 +258,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.023595715880837333,
+      "trendingScore": 0.02355958543099282,
       "isReported": false
     },
     "mpxfn448cepk41hi": {
@@ -274,7 +274,7 @@
         "dislike": 1
       },
       "commentCount": 1,
-      "trendingScore": 0.04361545701048246,
+      "trendingScore": 0.04354619323054334,
       "isReported": false
     },
     "mpxrm5pvojlqd1e3": {
@@ -292,7 +292,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.08515977934694688,
+      "trendingScore": 0.08496661730930616,
       "isReported": false
     },
     "mpxs59dnt1at15ja": {
@@ -340,7 +340,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.07419953896489312,
+      "trendingScore": 0.07395602804586403,
       "isReported": false
     },
     "mpy16oozic7l0u4j": {
@@ -356,7 +356,7 @@
         "dislike": 1
       },
       "commentCount": 2,
-      "trendingScore": 0.1599093673781162,
+      "trendingScore": 0.15935785033271826,
       "isReported": false
     },
     "mpy1g5s5llxp2fwy": {
@@ -374,7 +374,7 @@
         "dislike": 0
       },
       "commentCount": 2,
-      "trendingScore": 0.22469671763697968,
+      "trendingScore": 0.22391049841325864,
       "isReported": false
     },
     "mpy1pei9qcqv0biu": {
@@ -392,7 +392,7 @@
         "dislike": 1
       },
       "commentCount": 2,
-      "trendingScore": 0.26713840307173775,
+      "trendingScore": 0.266190246909291,
       "isReported": false
     },
     "mpy69k1p5qp7kup3": {
@@ -408,7 +408,7 @@
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.20813268171020763,
+      "trendingScore": 0.20714078943758502,
       "isReported": false
     },
     "mpy7qes3137wz77d": {
@@ -446,7 +446,7 @@
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0.30919232975247585,
+      "trendingScore": 0.3074202132031299,
       "isReported": false
     }
   },
@@ -1317,12 +1317,12 @@
         "createdAt": 1780457591817
       },
       {
-        "id": "mpyf8brw7vfmscp8",
+        "id": "mpyf9uk7r0if22sg",
         "type": "reaction",
         "postId": "mpx1cd58yzsbg6q4",
         "message": "Someone reacted to your post",
         "read": false,
-        "createdAt": 1780512601244
+        "createdAt": 1780512672247
       }
     ],
     "KAUWFPB4": [
