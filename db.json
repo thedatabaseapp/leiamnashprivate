@@ -1979,7 +1979,7 @@
         "type": "reaction",
         "postId": "mpztw1711q03kazi",
         "message": "Someone reacted to your post",
-        "read": false,
+        "read": true,
         "createdAt": 1780598499227
       },
       {
@@ -1987,7 +1987,7 @@
         "type": "reaction",
         "postId": "mpztw1711q03kazi",
         "message": "Someone reacted to your post",
-        "read": false,
+        "read": true,
         "createdAt": 1780603091133
       }
     ],
