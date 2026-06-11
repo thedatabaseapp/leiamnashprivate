@@ -466,25 +466,6 @@
       "trendingScore": 0.003464054426337883,
       "isReported": false
     },
-    "mpzhmytasqzy7h8z": {
-      "id": "mpzhmytasqzy7h8z",
-      "content": "",
-      "images": [
-        "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1780577107591-9k000s.jpg"
-      ],
-      "videos": [],
-      "gifs": [],
-      "anonymousId": "3GQBMEH5",
-      "createdAt": 1780577109694,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 1,
-        "dislike": 0
-      },
-      "commentCount": 1,
-      "trendingScore": 0.0031773825516152017,
-      "isReported": false
-    },
     "mpziqtvmqukvc4v2": {
       "id": "mpziqtvmqukvc4v2",
       "content": "<h1>Tite<h1/>",
@@ -748,40 +729,6 @@
       "trendingScore": 0,
       "isReported": false
     },
-    "mq59ibncd8xjzp4j": {
-      "id": "mq59ibncd8xjzp4j",
-      "content": "N",
-      "images": [],
-      "videos": [],
-      "gifs": [],
-      "anonymousId": "VHAD5GRH",
-      "createdAt": 1780926253176,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 0,
-      "trendingScore": 0,
-      "isReported": false
-    },
-    "mq59ikcktsz99aqq": {
-      "id": "mq59ikcktsz99aqq",
-      "content": "A",
-      "images": [],
-      "videos": [],
-      "gifs": [],
-      "anonymousId": "VHAD5GRH",
-      "createdAt": 1780926264452,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 0,
-      "trendingScore": 0,
-      "isReported": false
-    },
     "mq59inelid5h5yjm": {
       "id": "mq59inelid5h5yjm",
       "content": "T",
@@ -790,23 +737,6 @@
       "gifs": [],
       "anonymousId": "VHAD5GRH",
       "createdAt": 1780926268413,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 0,
-      "trendingScore": 0,
-      "isReported": false
-    },
-    "mq59iq4oqvq3c4qe": {
-      "id": "mq59iq4oqvq3c4qe",
-      "content": "O",
-      "images": [],
-      "videos": [],
-      "gifs": [],
-      "anonymousId": "VHAD5GRH",
-      "createdAt": 1780926271944,
       "reactionCounts": {
         "love": 0,
         "funny": 0,
@@ -843,23 +773,6 @@
       "gifs": [],
       "anonymousId": "VHAD5GRH",
       "createdAt": 1780927342131,
-      "reactionCounts": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      },
-      "commentCount": 0,
-      "trendingScore": 0,
-      "isReported": false
-    },
-    "mq5b6a7bic29fssy": {
-      "id": "mq5b6a7bic29fssy",
-      "content": "Your first quote here.",
-      "images": [],
-      "videos": [],
-      "gifs": [],
-      "anonymousId": "beb95960-e398-4e35-8fd1-22253e5fd26a",
-      "createdAt": 1780929050663,
       "reactionCounts": {
         "love": 0,
         "funny": 0,
@@ -29864,20 +29777,6 @@
         "dislike": 0
       }
     },
-    "mpzhu4ztputfopme": {
-      "id": "mpzhu4ztputfopme",
-      "postId": "mpzhmytasqzy7h8z",
-      "parentId": null,
-      "content": "isang banal at isang kupal",
-      "anonymousId": "R1CPK22Y",
-      "createdAt": 1780577444297,
-      "depth": 0,
-      "reactions": {
-        "love": 0,
-        "funny": 0,
-        "dislike": 0
-      }
-    },
     "mpzmjzx7ky8amazw": {
       "id": "mpzmjzx7ky8amazw",
       "postId": "mpziqtvmqukvc4v2",
@@ -30047,7 +29946,6 @@
     "mpx1mtyfhbnihsbf:KXGSAKFI": "funny",
     "mpziqtvmqukvc4v2:R1CPK22Y": "funny",
     "mpziqtvmqukvc4v2:DVJDVTZI": "funny",
-    "mpzhmytasqzy7h8z:DVJDVTZI": "funny",
     "mpy7qes3137wz77d:DVJDVTZI": "love",
     "mpx1cd58yzsbg6q4:DVJDVTZI": "funny",
     "mpziqtvmqukvc4v2:VN0H5U2R": "love",
@@ -38398,6 +38296,21 @@
     "7796785e-988f-48a2-b2cc-5ec54afd91cb": {
       "reason": "Spam - HACKED BY LINA",
       "createdAt": 1781171021432,
+      "expiresAt": null
+    },
+    "3GQBMEH5": {
+      "reason": "Duplicate content spam",
+      "createdAt": 1781171034375,
+      "expiresAt": null
+    },
+    "VHAD5GRH": {
+      "reason": "Duplicate content spam",
+      "createdAt": 1781171034375,
+      "expiresAt": null
+    },
+    "beb95960-e398-4e35-8fd1-22253e5fd26a": {
+      "reason": "Duplicate content spam",
+      "createdAt": 1781171034375,
       "expiresAt": null
     }
   }
