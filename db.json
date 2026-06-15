@@ -2785,7 +2785,11 @@
         "videos": [],
         "gifs": [],
         "replyTo": null,
-        "reactions": {},
+        "reactions": {
+          "😂": [
+            "U9FGWYGP"
+          ]
+        },
         "edited": false,
         "createdAt": 1781535743843
       },
