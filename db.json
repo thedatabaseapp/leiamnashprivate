@@ -2667,6 +2667,25 @@
     ]
   },
   "reports": [],
+  "chats": {
+    "global": [
+      {
+        "id": "msg_mqf5vqxp4dsbhn",
+        "senderId": "U9FGWYGP",
+        "senderName": "izumi miyazuki",
+        "senderUsername": "bagongbilat",
+        "senderIcon": null,
+        "content": "what the fawk",
+        "images": [],
+        "videos": [],
+        "gifs": [],
+        "replyTo": null,
+        "reactions": {},
+        "edited": false,
+        "createdAt": 1781524822813
+      }
+    ]
+  },
   "profiles": {
     "U9FGWYGP": {
       "anonymousId": "U9FGWYGP",
