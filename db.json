@@ -1747,6 +1747,13 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780420696360
+      },
+      {
+        "id": "mqfzm1hj4btgqn3c",
+        "type": "follow",
+        "message": "Someone started following you",
+        "read": false,
+        "createdAt": 1781574758407
       }
     ],
     "0B87IN33": [
@@ -2813,34 +2820,19 @@
         "createdAt": 1781539166707
       },
       {
-        "id": "msg_mqfzj7k8ftppac",
+        "id": "msg_mqfzjnceqmztkc",
         "senderId": "R1CPK22Y",
         "senderName": null,
         "senderUsername": null,
         "senderIcon": null,
-        "content": "wow bagong feature hahaha",
+        "content": "wow bagong feature",
         "images": [],
         "videos": [],
         "gifs": [],
         "replyTo": null,
         "reactions": {},
         "edited": false,
-        "createdAt": 1781574626312
-      },
-      {
-        "id": "msg_mqfzk5en8hefj8",
-        "senderId": "R1CPK22Y",
-        "senderName": null,
-        "senderUsername": null,
-        "senderIcon": null,
-        "content": "hi mga pepols kamusta kayo jan",
-        "images": [],
-        "videos": [],
-        "gifs": [],
-        "replyTo": null,
-        "reactions": {},
-        "edited": false,
-        "createdAt": 1781574670175
+        "createdAt": 1781574646766
       }
     ]
   },
@@ -2880,7 +2872,9 @@
       "createdAt": 1781187518827
     }
   },
-  "follows": {},
+  "follows": {
+    "R1CPK22Y:U9FGWYGP": true
+  },
   "banned": {
     "afbac2e1-b9c5-4f53-ab06-c9c6ddcd6ab4": {
       "reason": "Spam - HACKED BY LINA",
