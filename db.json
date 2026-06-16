@@ -3167,6 +3167,9 @@
           ],
           "❤️": [
             "GXOO2EYN"
+          ],
+          "😂": [
+            "GXOO2EYN"
           ]
         },
         "edited": false,
@@ -3230,7 +3233,11 @@
         "videos": [],
         "gifs": [],
         "replyTo": null,
-        "reactions": {},
+        "reactions": {
+          "❤️": [
+            "GXOO2EYN"
+          ]
+        },
         "edited": false,
         "createdAt": 1781618654069
       }
