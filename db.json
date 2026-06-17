@@ -3544,21 +3544,6 @@
         "reactions": {},
         "edited": false,
         "createdAt": 1781685861432
-      },
-      {
-        "id": "msg_mqi1zdjhv28do5",
-        "senderId": "2FC560NT",
-        "senderName": null,
-        "senderUsername": null,
-        "senderIcon": null,
-        "content": "test",
-        "images": [],
-        "videos": [],
-        "gifs": [],
-        "replyTo": null,
-        "reactions": {},
-        "edited": false,
-        "createdAt": 1781699672141
       }
     ]
   },
@@ -3680,6 +3665,18 @@
       "icon": null,
       "banner": null,
       "createdAt": 1781682943561
+    },
+    "2FC560NT": {
+      "anonymousId": "2FC560NT",
+      "name": "Manuel",
+      "username": "manuel",
+      "birthday": "2026-06-17",
+      "gender": "Prefer not to say",
+      "status": null,
+      "country": "Afghanistan",
+      "icon": null,
+      "banner": null,
+      "createdAt": 1781699743389
     }
   },
   "follows": {
