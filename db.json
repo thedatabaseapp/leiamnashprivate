@@ -3323,7 +3323,11 @@
         "videos": [],
         "gifs": [],
         "replyTo": null,
-        "reactions": {},
+        "reactions": {
+          "😂": [
+            "5QKXE1AL"
+          ]
+        },
         "edited": false,
         "createdAt": 1781668027667
       }
