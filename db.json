@@ -222,12 +222,12 @@
       "anonymousId": "R1CPK22Y",
       "createdAt": 1780441660222,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 1,
-      "trendingScore": 0.0003154103310006342,
+      "trendingScore": 0.0005519680792511098,
       "isReported": false
     },
     "mpx96yrnziaw5ygm": {
@@ -243,12 +243,12 @@
       "anonymousId": "7AEC2DKY",
       "createdAt": 1780441993859,
       "reactionCounts": {
-        "love": 0,
+        "love": 1,
         "funny": 0,
         "dislike": 0
       },
       "commentCount": 0,
-      "trendingScore": 0,
+      "trendingScore": 0.00023665377177328097,
       "isReported": false
     },
     "mpxe5ro48h6dbbhr": {
@@ -1836,7 +1836,9 @@
     "mqcehsayxey7hqj3:R1CPK22Y": "love",
     "mq59fqafgg5mc1fx:R1CPK22Y": "funny",
     "mqcehsayxey7hqj3:GXOO2EYN": "funny",
-    "mpy7qes3137wz77d:GXOO2EYN": "love"
+    "mpy7qes3137wz77d:GXOO2EYN": "love",
+    "mpx96yrnziaw5ygm:RMZUUJJ7": "love",
+    "mpx8ztbyr4x82dup:RMZUUJJ7": "love"
   },
   "notifications": {
     "U9FGWYGP": [
@@ -2057,6 +2059,14 @@
         "message": "Someone replied to your post",
         "read": true,
         "createdAt": 1780422066750
+      },
+      {
+        "id": "mqhizl25ztifi2vm",
+        "type": "reaction",
+        "postId": "mpx8ztbyr4x82dup",
+        "message": "Someone reacted to your post",
+        "read": false,
+        "createdAt": 1781667769181
       }
     ],
     "immediate": [
@@ -3301,6 +3311,21 @@
         "reactions": {},
         "edited": false,
         "createdAt": 1781667060689
+      },
+      {
+        "id": "msg_mqhj54ibep482d",
+        "senderId": "5QKXE1AL",
+        "senderName": null,
+        "senderUsername": null,
+        "senderIcon": null,
+        "content": "Fuck",
+        "images": [],
+        "videos": [],
+        "gifs": [],
+        "replyTo": null,
+        "reactions": {},
+        "edited": false,
+        "createdAt": 1781668027667
       }
     ]
   },
