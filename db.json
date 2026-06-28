@@ -4198,6 +4198,18 @@
       "icon": null,
       "banner": null,
       "createdAt": 1781983002462
+    },
+    "6D76UZN2": {
+      "anonymousId": "6D76UZN2",
+      "name": "Giyan Shin",
+      "username": "giyan_shii",
+      "birthday": "2026-06-09",
+      "gender": "Prefer not to say",
+      "status": null,
+      "country": "South Africa",
+      "icon": "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1782637909484-a0d8bw.jpg",
+      "banner": "https://raw.githubusercontent.com/thedatabaseapp/leiamnashprivate/main/images/1782637918015-habn8w.jpg",
+      "createdAt": 1782637920020
     }
   },
   "follows": {
